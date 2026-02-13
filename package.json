@@ -1,7 +1,7 @@
 {
-	"name": "denamrkguide.dk",
+	"name": "madloba",
 	"version": "1.0.0",
-	"description": "denamarkguide.dk",
+	"description": "madloba",
 	"private": true,
 	"scripts": {
 		"dev": "webpack serve --mode development",
